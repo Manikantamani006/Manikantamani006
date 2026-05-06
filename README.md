@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manikanta</h1>
 
 <p align="center">
-🚀 AI/ML Enthusiast | Developer <br>
+🚀 AI/ML Enthusiast | Developer <br> & Prompt Engineer @ ZedRoutz
 Building real-world ML projects using Python & Scikit-learn
 </p>
 
@@ -10,8 +10,9 @@ Building real-world ML projects using Python & Scikit-learn
 ## 🧠 About Me  
 
 - 💻 Languages: C, C++, Python <br>
-- 🤖 ML: Linear, Logistic, KNN & more <br>
-- 🛠️ Focused on practical projects <br>
+- 🤖 ML: Linear, Logistic, KNN & much more <br>
+- 🛠️ Focused on practical projects | innovation & Creative <br>
+
 
 <br>
 
