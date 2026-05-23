@@ -19,7 +19,7 @@
 - 🔭 I’m currently working as a **Prompt Engineer & Developer @ ZedRoutz**.
 - 🌱 I’m constantly learning and building **real-world ML projects**.
 - 💡 I focus on **practical innovation**, creative problem-solving, and bringing AI concepts to life.
-- 📫 How to reach me: **[Your Email Here]**
+- 📫 How to reach me: **[manikantamani12345006@gmail.com]**
 
 <br>
 
