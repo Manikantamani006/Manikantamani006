@@ -55,7 +55,7 @@
 ### 🎮 Pacman Contribution Graph
 
 <p align="center">
-  <img src="YOUR_PACMAN_IMAGE_URL_OR_FILE_PATH_HERE" alt="Pacman Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
 </p>
 
 <p align="center">✨ <em>Learning by building</em> 🚀</p>
