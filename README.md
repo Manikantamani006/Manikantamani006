@@ -1,17 +1,26 @@
-<h1 align="center">Hi 👋, I'm Manikanta</h1>
-
-<h3 align="center">AI/ML Enthusiast | Developer | Ex-Prompt Engineer @ ZedRoutz</h3>
 
 <p align="center">
-  Building real-world ML solutions using Python & Scikit-learn 🚀
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3670A0&center=true&vCenter=true&width=600&height=50&lines=Hey+👋+I'm+Manikanta;AI%2FML+Enthusiast;Prompt+Engineer+@+ZedRoutz" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/manikantarb" target="_blank">
+  <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
+```javascript```
+const developer = {
+  name: 'Manikanta R.B.',
+  username: 'Manikantamani006',
+  education: 'Bangalore Institute of Technology',
+  role: 'Prompt Engineer & Developer @ ZedRoutz',
+  bio: 'Building real-world ML solutions using Python & Scikit-learn 🚀',
+  techStack: ['Python', 'C', 'C++', 'Machine Learning', 'Pandas', 'NumPy'],
+  sayHi: function() {
+    console.log("Learning by building! Reach out at manikantamani12345006@gmail.com");
+  }
+};
 ---
 
 ## 🧠 About Me
