@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manikanta</h1>
 
-<h3 align="center">AI/ML Enthusiast | Developer | Prompt Engineer @ ZedRoutz</h3>
+<h3 align="center">AI/ML Enthusiast | Developer | Ex-Prompt Engineer @ ZedRoutz</h3>
 
 <p align="center">
   Building real-world ML solutions using Python & Scikit-learn 🚀
