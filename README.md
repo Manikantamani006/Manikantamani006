@@ -1,15 +1,16 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3670A0&center=true&vCenter=true&width=600&height=50&lines=Hey+👋+I'm+Manikanta;AI%2FML+Enthusiast;Prompt+Engineer+@+ZedRoutz" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=3670A0&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Hey](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=3670A0&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Hey)+👋+I'm+Manikanta;AI%2FML+Enthusiast;Prompt+Engineer+%40+ZedRoutz" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
   </a>
 </p>
 
-```javascript```
+<br>
+
+```javascript
 const developer = {
   name: 'Manikanta R.B.',
   username: 'Manikantamani006',
