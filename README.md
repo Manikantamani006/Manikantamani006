@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=3670A0&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Hey](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=3670A0&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Hey)+👋+I'm+Manikanta;AI%2FML+Enthusiast;Prompt+Engineer+%40+ZedRoutz" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=3670A0&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Hey+👋+I'm+Manikanta;AI%2FML+Enthusiast;Prompt+Engineer+%40+ZedRoutz" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -22,6 +22,8 @@ const developer = {
     console.log("Learning by building! Reach out at manikantamani12345006@gmail.com");
   }
 };
+```
+
 ---
 
 ## 🧠 About Me
@@ -59,7 +61,7 @@ const developer = {
 ## 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="Manikanta's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manikantamani006&show_icons=true&theme=radical" alt="Manikanta's GitHub Stats" />
 </p>
 
 ### 🎮 Pacman Contribution Graph
