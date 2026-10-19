@@ -20,21 +20,6 @@
 
 <br/>
 
-```javascript
-const developer = {
-  name: 'Manikanta R.B.',
-  username: 'Manikantamani006',
-  education: 'Bangalore Institute of Technology',
-  role: 'Prompt Engineer & Developer @ ZedRoutz',
-  bio: 'Building real-world ML & deep learning solutions 🚀',
-  focus: ['NLP', 'Deep Learning', 'Time-series', 'Applied ML'],
-  sayHi: function () {
-    console.log("Learning by building! Reach out at manikantamani12345006@gmail.com");
-  }
-};
-```
-
----
 
 ## 🧠 About Me
 
