@@ -2,7 +2,7 @@
 
 <img src="assets/pfp-animated.svg" alt="Manikanta" width="230"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1100&color=C2410C&center=true&vCenter=true&width=620&height=50&lines=Hey+%F0%9F%91%8B+I'm+Manikanta;AI%2FML+Enthusiast;Prompt+Engineer+%40+ZedRoutz;Learning+by+building" alt="Typing SVG"/>
+<img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/developer-code.svg" alt="Typing SVG"/>
 
 <br/>
 
