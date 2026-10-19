@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="YOUR_LINKEDIN_LINK_HERE">
+<a href="https://github.com/Manikantamani006">
   <img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=E8E2D4" alt="LinkedIn"/>
 </a>
 <a href="mailto:manikantamani12345006@gmail.com">
