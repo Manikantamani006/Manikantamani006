@@ -1,99 +1,51 @@
 <div align="center">
 
-<img src="assets/pfp-animated.svg" alt="Manikanta" width="230"/>
+<img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/pfp-animated.svg" alt="Manikanta" width="230"/>
 
-<img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/developer-code.svg" alt="Typing SVG"/>
+<img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/developer-code.svg" alt="const developer = { name: 'Manikanta R.B.', role: 'Prompt Engineer & Developer @ ZedRoutz' }" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/Manikantamani006">
-  <img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=E8E2D4" alt="LinkedIn"/>
-</a>
-<a href="mailto:manikantamani12345006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=E8E2D4" alt="Email"/>
-</a>
-<a href="https://github.com/Manikantamani006">
-  <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=E8E2D4" alt="GitHub"/>
-</a>
+<a href="https://github.com/Manikantamani006"><img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/btn-linkedin.svg" alt="LinkedIn" height="42"/></a>
+<a href="mailto:manikantamani12345006@gmail.com"><img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/btn-email.svg" alt="Email" height="42"/></a>
+<a href="https://github.com/Manikantamani006"><img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/btn-github.svg" alt="GitHub" height="42"/></a>
 
 </div>
 
 <br/>
 
-
-## 🧠 About Me
-
-- 🔭 Working as a **Prompt Engineer & Developer @ ZedRoutz**
-- 🌱 Studying at **Bangalore Institute of Technology**, building **real-world ML projects** along the way
-- 💡 I like practical innovation, creative problem-solving, and turning AI concepts into things that run
-- 📫 Reach me at **[manikantamani12345006@gmail.com](mailto:manikantamani12345006@gmail.com)**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/hdr-about.svg" alt="about_me" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/about.svg" alt="Prompt Engineer & Developer @ ZedRoutz. Studying at Bangalore Institute of Technology, building real-world ML projects. Reach me at manikantamani12345006@gmail.com" width="100%"/>
+</div>
 
 <br/>
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>💬 Emotion Prediction using NLP</h3>
-      <p>Predicts the emotion behind a piece of text using a Natural Language Processing pipeline.</p>
-      <p><code>NLP</code> <code>Machine Learning</code> <code>Python</code></p>
-      <p><a href="https://github.com/Manikantamani006/Emotion-Prediction-using-NLP-"><b>View repository →</b></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🫀 Heart Disease Prediction</h3>
-      <p>End-to-end ML model that predicts cardiovascular risk from clinical data.</p>
-      <p><code>Scikit-learn</code> <code>Pandas</code> <code>Classification</code></p>
-      <p><a href="https://github.com/Manikantamani006/Heart-Diease-Prediction"><b>View repository →</b></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🪐 Exoplanet Discovery (TESS)</h3>
-      <p>Automated exoplanet discovery in NASA TESS data using Box Least Squares (BLS) and 1D Convolutional Neural Networks (1D-CNNs).</p>
-      <p><code>Deep Learning</code> <code>1D-CNN</code> <code>BLS</code></p>
-      <p><a href="https://github.com/Manikantamani006/bhar-isro"><b>View repository →</b></a></p>
-    </td>
-  </tr>
-</table>
-
-<sub>Also: 📊 <a href="https://github.com/Manikantamani006/Titanic_survivor">Titanic Survivor</a> · EDA and predictive modeling on real-world datasets</sub>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/hdr-projects.svg" alt="featured_projects" width="100%"/>
+  <br/>
+  <a href="https://github.com/Manikantamani006/Emotion-Prediction-using-NLP-"><img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/card-emotion.svg" alt="Emotion Prediction using NLP" width="32%"/></a>
+  <a href="https://github.com/Manikantamani006/Heart-Diease-Prediction"><img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/card-heart.svg" alt="Heart Disease Prediction" width="32%"/></a>
+  <a href="https://github.com/Manikantamani006/bhar-isro"><img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/card-exoplanet.svg" alt="Exoplanet Discovery in NASA TESS data" width="32%"/></a>
+  <br/>
+  <sub>Also: 📊 <a href="https://github.com/Manikantamani006/Titanic_survivor">Titanic Survivor</a> · EDA and predictive modeling on real-world datasets</sub>
+</div>
 
 <br/>
 
-## 💻 Skills & Tools
-
-**Languages**<br/>
-![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=E8E2D4)
-![C](https://img.shields.io/badge/C-1A1A1A?style=for-the-badge&logo=c&logoColor=E8E2D4)
-![C++](https://img.shields.io/badge/C++-1A1A1A?style=for-the-badge&logo=cplusplus&logoColor=E8E2D4)
-
-**Machine Learning**<br/>
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1A1A1A?style=for-the-badge&logo=scikitlearn&logoColor=E8E2D4)
-![Pandas](https://img.shields.io/badge/Pandas-1A1A1A?style=for-the-badge&logo=pandas&logoColor=E8E2D4)
-![NumPy](https://img.shields.io/badge/NumPy-1A1A1A?style=for-the-badge&logo=numpy&logoColor=E8E2D4)
-![Linear Regression](https://img.shields.io/badge/Linear_Regression-1A1A1A?style=for-the-badge)
-![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-1A1A1A?style=for-the-badge)
-![KNN](https://img.shields.io/badge/KNN-1A1A1A?style=for-the-badge)
-
-**Deep Learning**<br/>
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-1A1A1A?style=for-the-badge)
-![ANN](https://img.shields.io/badge/ANN-1A1A1A?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-1A1A1A?style=for-the-badge)
-![RNN](https://img.shields.io/badge/RNN-1A1A1A?style=for-the-badge)
-![LSTM](https://img.shields.io/badge/LSTM-1A1A1A?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-1A1A1A?style=for-the-badge)
-
-**Natural Language Processing**<br/>
-![NLP](https://img.shields.io/badge/NLP-1A1A1A?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1A1A1A?style=for-the-badge)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/hdr-skills.svg" alt="skills_tools" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/skills.svg" alt="Skills: Python, C, C++, Scikit-learn, Pandas, NumPy, Linear and Logistic Regression, KNN, Deep Learning, ANN, CNN, RNN, LSTM, Transformers, NLP, Prompt Engineering" width="100%"/>
+</div>
 
 <br/>
 
-## 📈 GitHub Stats
-
-<p align="center">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/hdr-stats.svg" alt="github_stats" width="100%"/>
+  <br/>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manikantamani006&show_icons=true&hide_border=false&bg_color=0D0D0D&title_color=E8E2D4&text_color=B8B2A4&icon_color=C2410C&border_color=2A2A2A" alt="GitHub Stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikantamani006&layout=compact&bg_color=0D0D0D&title_color=E8E2D4&text_color=B8B2A4&border_color=2A2A2A" alt="Top Languages"/>
-</p>
+</div>
 
 ### 🎮 Pacman Contribution Graph
 
