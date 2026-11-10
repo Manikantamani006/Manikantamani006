@@ -43,8 +43,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Manikantamani006/Manikantamani006/main/assets/hdr-stats.svg" alt="github_stats" width="100%"/>
   <br/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manikantamani006&show_icons=true&hide_border=false&bg_color=0D0D0D&title_color=E8E2D4&text_color=B8B2A4&icon_color=C2410C&border_color=2A2A2A" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikantamani006&layout=compact&bg_color=0D0D0D&title_color=E8E2D4&text_color=B8B2A4&border_color=2A2A2A" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manikantamani006&show_icons=true&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=30363D" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikantamani006&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" alt="Top Languages"/>
 </div>
 
 ### 🎮 Pacman Contribution Graph
